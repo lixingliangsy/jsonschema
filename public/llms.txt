@@ -1,0 +1,43 @@
+# JSONSchema - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: JSONSchema
+- One-line value: JSONSchema turns a sample JSON object into a strict JSON Schema (draft 2020-12), explains each required field, and lists the validation rules your API should enforce.
+- Domain: https://jsonschema.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- JSON Schema — Draft 2020-12: https://json-schema.org/draft/2020-12/json-schema-core.html
+- OpenAPI — Schema Object: https://spec.openapis.org/oas/latest.html#schema-object
+
+## FAQ
+Q1. What is JSONSchema?
+A1. JSONSchema is a tool that turns a sample JSON object into a strict JSON Schema with explanations and validation rules.
+Q2. What schema version does it use?
+A2. It produces JSON Schema draft 2020-12, the current standard most validators support.
+Q3. Does it mark required fields?
+A3. Yes. It marks required fields automatically from the sample.
+Q4. Does it explain the rules?
+A4. It explains each validation rule in plain language so you know what the API should enforce.
+Q5. Who should use it?
+A5. API developers who want a strict, documented contract from a sample object.
+Q6. Is it compliant with modern tooling?
+A6. Draft 2020-12 compliance means the schema works with current validators.
+
+## Key pages
+- Home: https://jsonschema.lxsaihub.com/
+- Blog index: https://jsonschema.lxsaihub.com/blog
+- https://jsonschema.lxsaihub.com/blog/sample-json-to-draft-2020-12-schema-2026.html
+- https://jsonschema.lxsaihub.com/blog/plain-language-validation-rules-2026.html
+- This manifest: https://jsonschema.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://jsonschema.lxsaihub.com/
